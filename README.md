@@ -1,4 +1,4 @@
-# LLM4ProteinEvolution
+# TextProteinEvolution
 
 This repository contains the codebase for **Language Models for Text-Guided Protein Evolution**, presented at the **Workshop on Foundation Models for Science** and the **Workshop on AI for New Drug Modalities** during NeurIPS 2024.
 
